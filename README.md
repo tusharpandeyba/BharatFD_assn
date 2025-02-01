@@ -121,9 +121,7 @@ The API will be available at: `http://localhost:5000`
 ---
 
 ## 👨‍💻 Contributors
-- **Subhasis Paul** – [GitHub](https://github.com/webdesignbysubhasis6)
-
-Feel free to contribute to this project by submitting issues or pull requests! 🚀
+- **Tushar Pandey** – [GitHub](https://github.com/tusharpandeyba/)
 
 ---
 
