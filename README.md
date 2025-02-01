@@ -1,6 +1,7 @@
 # 📌 FAQ Management System
 
-A simple yet efficient **FAQ Management System** built with **Node.js, Express, MongoDB, and Redis**. This system allows users to:
+A powerful and efficient FAQ Management System leveraging Node.js, Express, MongoDB, and Redis to deliver fast, multilingual, and scalable FAQ services.
+## 🔥 Core Capabilities
 
 - **Fetch all FAQs** with multilingual support (English, Hindi, Bengali).
 - **Create new FAQs** with auto-translation.
